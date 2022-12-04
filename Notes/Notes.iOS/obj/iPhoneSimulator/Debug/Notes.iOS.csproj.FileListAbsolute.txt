@@ -61,3 +61,11 @@ C:\Cursos_Local\Xamarin_Forms\Notes\Notes.iOS\obj\iPhoneSimulator\Debug\Notes.iO
 C:\Cursos_Local\Xamarin_Forms\Notes\Notes.iOS\obj\iPhoneSimulator\Debug\Notes.iOS.csproj.CopyComplete
 C:\Cursos_Local\Xamarin_Forms\Notes\Notes.iOS\obj\iPhoneSimulator\Debug\Notes.iOS.exe
 C:\Cursos_Local\Xamarin_Forms\Notes\Notes.iOS\obj\iPhoneSimulator\Debug\Notes.iOS.pdb
+C:\Cursos_Local\Xamarin_Forms\Notes\Notes.iOS\bin\iPhoneSimulator\Debug\SQLite-net.dll
+C:\Cursos_Local\Xamarin_Forms\Notes\Notes.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Cursos_Local\Xamarin_Forms\Notes\Notes.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Cursos_Local\Xamarin_Forms\Notes\Notes.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.core.dll
+C:\Cursos_Local\Xamarin_Forms\Notes\Notes.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Cursos_Local\Xamarin_Forms\Notes\Notes.iOS\bin\iPhoneSimulator\Debug\System.Buffers.dll
+C:\Cursos_Local\Xamarin_Forms\Notes\Notes.iOS\bin\iPhoneSimulator\Debug\System.Memory.dll
+C:\Cursos_Local\Xamarin_Forms\Notes\Notes.iOS\bin\iPhoneSimulator\Debug\System.Runtime.CompilerServices.Unsafe.dll

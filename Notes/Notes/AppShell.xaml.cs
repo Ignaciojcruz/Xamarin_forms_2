@@ -7,7 +7,7 @@ namespace Notes
     {
         public AppShell()
         {
-            InitializeComponent();           
+            InitializeComponent();
             Routing.RegisterRoute(nameof(NoteEntryPage), typeof(NoteEntryPage));
         }
 
