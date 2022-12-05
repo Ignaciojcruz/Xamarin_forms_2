@@ -869,11 +869,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Cursos_Local\\Xamarin_Forms\\Notes\\Notes\\Notes.csproj",
+      "projectUniqueName": "C:\\Proyectos_Local\\Xamarin_Forms\\Xamarin_forms_2\\Notes\\Notes\\Notes.csproj",
       "projectName": "Notes",
-      "projectPath": "C:\\Cursos_Local\\Xamarin_Forms\\Notes\\Notes\\Notes.csproj",
+      "projectPath": "C:\\Proyectos_Local\\Xamarin_Forms\\Xamarin_forms_2\\Notes\\Notes\\Notes.csproj",
       "packagesPath": "C:\\Users\\ignac\\.nuget\\packages\\",
-      "outputPath": "C:\\Cursos_Local\\Xamarin_Forms\\Notes\\Notes\\obj\\",
+      "outputPath": "C:\\Proyectos_Local\\Xamarin_Forms\\Xamarin_forms_2\\Notes\\Notes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

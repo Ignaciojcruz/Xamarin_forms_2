@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dligJo894+qJSWbzJTTNE5Y7N+H8zw/yu/6pj1WOrxuGzySFrmQPdMLCrjREeHRr3kZ61i5hGDELPw62iEx+LQ==",
+  "dgSpecHash": "XxVPAo2MlX9/b/F4MsqaEH1xCE4DHCS7RJAoogqkfxzmuSIuSjs7nwtg7GFHFOi6GNGZYOxdHgu9Z3LcVuhc7Q==",
   "success": true,
-  "projectFilePath": "C:\\Cursos_Local\\Xamarin_Forms\\Notes\\Notes.Android\\Notes.Android.csproj",
+  "projectFilePath": "C:\\Proyectos_Local\\Xamarin_Forms\\Xamarin_forms_2\\Notes\\Notes.Android\\Notes.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ignac\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
     "C:\\Users\\ignac\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",

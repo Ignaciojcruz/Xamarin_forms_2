@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q9/ZaSPOOKoCPYcOCRgv3BMJPmaIACswyxh2oCYx7zQ/dLIhyfdWXDJHdQuuarK8a9fCfCKxTchT3q9GV2zj2g==",
+  "dgSpecHash": "vGCHPdyoZvkue6wgQRwJBP/0GYvmB83gfk81t7OZvjSRGOCXhbQVFfvNEm4OOLhkTbyWFi6vTM3VW7kEbRxGfw==",
   "success": true,
-  "projectFilePath": "C:\\Cursos_Local\\Xamarin_Forms\\Notes\\Notes\\Notes.csproj",
+  "projectFilePath": "C:\\Proyectos_Local\\Xamarin_Forms\\Xamarin_forms_2\\Notes\\Notes\\Notes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ignac\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\ignac\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
